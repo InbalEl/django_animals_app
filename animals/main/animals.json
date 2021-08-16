@@ -1,0 +1,88 @@
+{
+    "animals": [
+        {
+            "id" :1,
+            "name": "Dog",
+            "legs": 4,
+            "weight": 5.67,
+            "height":4.2,
+            "speed": 34,
+            "family": 2
+        },
+        {
+            "id": 2,
+            "name": "Domestic Cat",
+            "legs": 2,
+            "weight": 5.67,
+            "height":4.2,
+            "speed": 34,
+            "family": 1
+        },
+        {
+            "id": 3,
+            "name": "Panther",
+            "legs": 2,
+            "weight": 5.67,
+            "height":4.2,
+            "speed": 34,
+            "family": 1 
+        },
+        {
+            "id": 4,
+            "name": "Python",
+            "legs": 0,
+            "weight": 0.8,
+            "height":0.2,
+            "speed": 8,
+            "family": 4 
+        },
+        {
+            "id": 5,
+            "name": "Spider",
+            "legs": 8,
+            "weight": 0.02,
+            "height":0.03,
+            "speed": 1,
+            "family": 6 
+        },
+        {
+            "id": 6,
+            "name": "Monkey",
+            "legs": 2,
+            "weight": 4.5,
+            "height":3.2,
+            "speed":9,
+            "family": 3 
+        }
+    ],
+    "families": [
+        {
+            "id": 1,
+            "name": "Felidae"
+        },
+        {
+            "id": 2,
+            "name": "Caninae"
+        },
+        {
+            "id": 3,
+            "name": "mammal"
+        },
+        {
+            "id": 4,
+            "name": "reptile"
+        },
+        {
+            "id": 5,
+            "name": "insect"
+        },
+        {
+            "id": 6,
+            "name": "arachnid"
+        },
+        {
+            "id": 7,
+            "name": "amphibian"
+        }
+    ]
+}
